@@ -8,6 +8,5 @@ redirect_from:
 ---
 
 
-Shengyuehui Li's personal website
 ======
-
+Hi I am Shengyuehui Li
