@@ -10,7 +10,7 @@ redirect_from:
 
 Shengyuehui Li's personal website
 ======
-Hi, i am Shengyuehui Li but you can also call me Lily
+Hi
 Getting started
 ======
 
