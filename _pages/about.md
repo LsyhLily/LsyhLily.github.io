@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shengyuehui Li's personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,5 @@ redirect_from:
 
 
 Shengyuehui Li's personal website
-======
-Hi
-Getting started
 ======
 
